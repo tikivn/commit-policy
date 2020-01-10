@@ -11,3 +11,5 @@ example current branch: OPS-1234-....
 
 - `c feature 'message'` => alias to `git commit -m 'feat(OPS-1234): message'`
 - `c fix 'message'` => alias to `git commit -m 'fix(OPS-1234): message'`
+
+you can also use with https://github.com/Gherciu/commitlint-jira
