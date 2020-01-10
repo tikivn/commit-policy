@@ -8,5 +8,6 @@ This repo never publish to NPM. Please install by
 ## Easy to use
 
 example current branch: OPS-1234-....
-`c feature 'message'` => alias to `git commit -m 'feat(OPS-1234): message'`
-`c fix 'message'` => alias to `git commit -m 'fix(OPS-1234): message'`
+
+- `c feature 'message'` => alias to `git commit -m 'feat(OPS-1234): message'`
+- `c fix 'message'` => alias to `git commit -m 'fix(OPS-1234): message'`
